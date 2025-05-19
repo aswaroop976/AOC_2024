@@ -59,7 +59,7 @@ int main() {
         }
     }
 
-    printf("number of XMAS occurences: %d", num_xmas);
+    printf("number of XMAS occurences: %d\n", num_xmas);
 
 
     return 0;
