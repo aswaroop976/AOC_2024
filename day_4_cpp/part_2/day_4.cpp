@@ -4,7 +4,7 @@
 #include <string>
 
 int main() {
-    // Hard-coded input filename hello
+    // Hard-coded input filename 
     const std::string filename = "input";
 
     std::ifstream infile{filename};
